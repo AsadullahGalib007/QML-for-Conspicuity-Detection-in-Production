@@ -32,3 +32,20 @@ This Notebook is an extension of my previous notebooks: task_3 and task_5.1_cnn.
 - **Hyper-Parameter Tuning:** ReduceLROnPlateau was iplemented to optimize the learning rate, and CSVLogger was used to record the training process. The best-performing model was saved in Keras format and used to measure the performance with testing data. (from task_5.1_cnn)
 
 - **Performance Measurements:** Overall Accuracy (OA), Average Accuracy (AA), Kappa, Precision, Recall, Specificity, and F1 Score were implemented to measure the model performance.
+
+# References
+---
+
+- [A. B. Rahman, M. Touhid Islam, M. R. Islam, M. Sohrawordi and M. N. Sultan, "Enhanced Brain Tumor Classification from MRI Images Using Deep Learning Model," 2023 26th International Conference on Computer and Information Technology (ICCIT), Cox's Bazar, Bangladesh, 2023, pp. 1-6, doi: 10.1109/ICCIT60459.2023.10441064. keywords: {Dimensionality reduction;Deep learning;Transfer learning;Feature extraction;Discrete wavelet transforms;Image classification;Tumors;Contrast Enhanced MRI(CE-MRI);Brain Tumor;Discrete Wavelet Transformation(DWT);CNN},](https://ieeexplore.ieee.org/document/10441064)
+
+- [Daniel Bacioiu, Geoff Melton, Mayorkinos Papaelias, Rob Shaw,
+Automated defect classification of Aluminium 5083 TIG welding using HDR camera and neural networks,
+Journal of Manufacturing Processes,
+Volume 45,
+2019,
+Pages 603-613,
+ISSN 1526-6125,
+https://doi.org/10.1016/j.jmapro.2019.07.020.
+(https://www.sciencedirect.com/science/article/pii/S1526612519302245)
+Abstract: Weld defect identification represents one of the most desired goals in the field of non-destructive testing (NDT) of welds. The current study investigates a system for assessing tungsten inert gas (TIG) welding using a high dynamic range (HDR) camera with the help of artificial neural networks (ANN) for image processing. This study proposes a new dataset11https://www.kaggle.com/danielbacioiu/tig-aluminium-5083. of images of the TIG welding process in the visible spectrum with improved contrast, similar to what a welder would normally see, and a model for computing a label identifying the welding imperfection. The progress (accuracy) achieved with the new system over varying degrees of categorisation complexity is thoroughly presented.
+Keywords: Automation; Convolutional neural networks; HDR camera; Vision; Process monitoring; Quality assessment](https://www.sciencedirect.com/science/article/abs/pii/S1526612519302245)
