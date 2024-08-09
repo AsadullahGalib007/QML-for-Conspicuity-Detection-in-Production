@@ -1,4 +1,4 @@
-# About task
+# About task (task_5_1_cnn.ipynb)
 ---
 
 The project task for Quantum Machine Learning for Conspicuity Detection in Production requires the implementation of a Quantum Machine Learning Model to detect anomalies in production. In this notebook, I will implement a Classical CNN Model to classify all provided classes using all given data. This CNN model is one of my previous implementations used to detect tumors in brain MRI images. In the next notebooks, I will implement the QML model. My contributions to this task include:
